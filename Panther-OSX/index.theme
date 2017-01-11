@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Panther-OSX
+Comment=Back from the dead.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Panther-OSX
+MetacityTheme=Panther-OSX
+IconTheme=Paper
